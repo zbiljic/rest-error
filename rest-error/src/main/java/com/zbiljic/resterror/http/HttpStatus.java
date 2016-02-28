@@ -1,3 +1,4 @@
+//@formatter:off
 package com.zbiljic.resterror.http;
 
 /**
@@ -523,3 +524,4 @@ public enum HttpStatus {
   }
 
 }
+//@formatter:on
