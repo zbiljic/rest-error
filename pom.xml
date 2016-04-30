@@ -20,7 +20,7 @@
   <parent>
     <groupId>org.basepom</groupId>
     <artifactId>basepom-minimal</artifactId>
-    <version>15</version>
+    <version>18</version>
   </parent>
 
   <groupId>com.zbiljic</groupId>
