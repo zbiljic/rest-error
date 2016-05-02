@@ -10,23 +10,23 @@ It also comes with a separate module which contains JAX-RS `ExceptionMapper`.
 ## Dependency
 
 ```xml
-    <dependency>
-        <groupId>com.zbiljic</groupId>
-        <artifactId>rest-error</artifactId>
-        <version>${rest-error.version}</version>
-    </dependency>
+<dependency>
+    <groupId>com.zbiljic</groupId>
+    <artifactId>rest-error</artifactId>
+    <version>${rest-error.version}</version>
+</dependency>
 
-    <dependency>
-        <groupId>com.zbiljic</groupId>
-        <artifactId>jackson-datatype-rest-error</artifactId>
-        <version>${rest-error.version}</version>
-    </dependency>
+<dependency>
+    <groupId>com.zbiljic</groupId>
+    <artifactId>jackson-datatype-rest-error</artifactId>
+    <version>${rest-error.version}</version>
+</dependency>
 
-    <dependency>
-        <groupId>com.zbiljic</groupId>
-        <artifactId>rest-error-jax-rs</artifactId>
-        <version>${rest-error.version}</version>
-    </dependency>
+<dependency>
+    <groupId>com.zbiljic</groupId>
+    <artifactId>rest-error-jax-rs</artifactId>
+    <version>${rest-error.version}</version>
+</dependency>
 ```
 
 ## Usage
